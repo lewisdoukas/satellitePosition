@@ -1,4 +1,4 @@
-# satellitePosition
+# 🛰 satellitePosition
 This tool calculates satellite position at WGS84 (X, Y, Z) based on navigation & orbit data (brdc file) at a given time.
 
 ## Requirements:
